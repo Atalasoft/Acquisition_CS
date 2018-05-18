@@ -1,8 +1,6 @@
 # Atalasoft TWAIN Acquisition demo
 Demo C# application showing the usage of TWAIN functionality that [DotImage](https://www.atalasoft.com/Products/DotImage) product provides.
 
-## Description
-
 ## Instructions
 1. Open Acquisition.sln
 1. Install the Atalasoft.DotTwain and Atalasoft.Shared libraries
